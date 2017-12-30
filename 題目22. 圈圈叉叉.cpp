@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-	int a[2][2];
+	int a[3][3];
 	int ii,jj;
 	int aa=0;
 	scanf("%d %d %d",&a[0][0],&a[0][1],&a[0][2]);
